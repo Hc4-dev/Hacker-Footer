@@ -1,2 +1,2 @@
 # Hacker-Footer
-hacker-footer web sitelerinizde kullanabilirsini
+hacker-footer web sitelerinizde kullanabilirsiniz.
